@@ -3,6 +3,11 @@
 #include <string.h>
 #include <unistd.h>
 
+void invo_check(char * func)
+{
+	
+}
+
 int main()
 {
 	puts("hey");
